@@ -1,4 +1,4 @@
-# Deloitte Technology Job Simulation - Telemetry Conversion
+# Deloitte Technology Job Simulation - Telemetry Conversion  TASK1
 
 ## Overview
 This project is part of the Deloitte Technology Job Simulation. The goal is to standardize telemetry data from different devices into a single, unified JSON format. The application reads device telemetry data in various formats and processes them into an expected, unified schema.
@@ -24,3 +24,5 @@ Simply run the script to execute the conversion logic and run the test suite:
 ```bash
 python main.py
 ```
+All test cases passed successfully!
+<img width="1888" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cd1ea47-174b-44c0-8e7a-d090df7307f7" />
