@@ -25,4 +25,4 @@ Simply run the script to execute the conversion logic and run the test suite:
 python main.py
 ```
 All test cases passed successfully!
-<img width="1888" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cd1ea47-174b-44c0-8e7a-d090df7307f7" />
+<img width="1861" height="1030" alt="image" src="https://github.com/user-attachments/assets/73dc0a64-24eb-4c0a-bfd0-1c3756f62201" />
